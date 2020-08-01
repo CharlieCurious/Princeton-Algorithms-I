@@ -1,5 +1,4 @@
 # Solutions to Princeton's Algorithms I MOOC.
-#### All assignments have grade 100/100.
 
 <h2>The course is available for free at:</h2>
 <p>
@@ -7,6 +6,12 @@
 
    [Coursera Algorithms I](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 
+</p>
+
+<h2> Description </h2>
+<p>
+All assignments are graded 100/100.</br>
+You can consult the .java files in the src  folder, or you can import the .zip with all the assignments directly to Eclipse IDE.</br>
 </p>
 
 <h2>Disclaimer: Coursera's honour code</h2>
