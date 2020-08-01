@@ -1,6 +1,5 @@
 # Solutions to Princeton's Algorithms I MOOC.
 
-<div class="description">
 <h2>The course is available for free at:</h2>
 <p>
   <a><img style="text-align:right;" src="https://algs4.cs.princeton.edu/cover.png" align="right" width="250" height="320"/></a>
@@ -10,6 +9,7 @@
 </p>
 
 <h2>Disclaimer: Coursera's honour code</h2>
+
 <p>
 I made this repository with the intention of helping anyone who is stuck trying to complete the course. 
 By doing so, I'm breaking Coursera's honour code.</br>
@@ -18,4 +18,10 @@ Therefore I attempt to publish the solutions with descriptive and hopefully eluc
 Please do try to solve the assignments and interview questions on your own and only peek at my solutions as a last resource.</li>
 </p>
 
-</div>
+<h3>Todo</h3>
+<ul>
+  <li> Improve descriptive comments explaining the algorithms. </li>
+  <li> Fix all pmd warnings. </li>
+  <li> Add solutions to the interview questions </li>
+</ul>
+
