@@ -28,11 +28,12 @@ Therefore I attempt to publish the solutions with descriptive and hopefully eluc
 Please do try to solve the assignments and interview questions on your own and only peek at my solutions as a last resource.</li>
 </p>
 
-<h3>Todo</h3>
+<h3>TODO</h3>
 <ul>
   <li> Improve descriptive comments explaining the algorithms. </li>
   <li> Fix all pmd warnings. </li>
   <li> Add solutions to the interview questions </li>
   <li> Add .zip for each project so that they can be imported directly to Eclipse </li>
+  <li> Add file with tips about passing all timing and memory tests </li>
 </ul>
 
