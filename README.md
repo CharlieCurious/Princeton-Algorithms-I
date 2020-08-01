@@ -33,7 +33,7 @@ Please do try to solve the assignments and interview questions on your own and o
   <li> Improve descriptive comments explaining the algorithms. </li>
   <li> Some methods in KdTree can be further optimized and/or simplified.</li>
   <li> Fix all pmd warnings. </li>
-  <li> Add solutions to the interview questions </li>
-  <li> Add file with tips about passing all timing and memory tests </li>
+  <li> Add solutions to the interview questions. </li>
+  <li> Add file with tips about passing all timing and memory tests. </li>
 </ul>
 
