@@ -31,6 +31,7 @@ Please do try to solve the assignments and interview questions on your own and o
 <h3>TODO:</h3>
 <ul>
   <li> Improve descriptive comments explaining the algorithms. </li>
+  <li> Some methods in KdTree can be further optimized and/or simplified.</li>
   <li> Fix all pmd warnings. </li>
   <li> Add solutions to the interview questions </li>
   <li> Add .zip for each project so that they can be imported directly to Eclipse </li>
