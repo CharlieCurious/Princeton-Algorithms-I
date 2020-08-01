@@ -1,20 +1,14 @@
-# Solutions to Princeton's Algorithms I and Algorithms II MOOCs.
+# Solutions to Princeton's Algorithms I MOOC.
 
 <div class="description">
 <h2>The courses are available for free at:</h2>
 <p>
   <a><img style="text-align:right;" src="https://algs4.cs.princeton.edu/cover.png" align="right" width="250" height="320"/></a>
-<li> 
+  <li> 
 
-[Algorithms I](https://www.coursera.org/learn/algorithms-part1/home/welcome) 
+   [Coursera Algorithms I](https://www.coursera.org/learn/algorithms-part1/home/welcome) 
 
-</li>
-<li>
-
-[Algorithms II](https://www.coursera.org/learn/algorithms-part2/home/welcome)
-
-</li>
-
+  </li>
 </ul>
 
 <h2>Disclaimer: Coursera's honour code</h2>
