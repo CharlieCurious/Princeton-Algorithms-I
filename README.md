@@ -1,4 +1,5 @@
 # Solutions to Princeton's Algorithms I MOOC.
+## All assignments have grade 100/100.
 
 <h2>The course is available for free at:</h2>
 <p>
