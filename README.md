@@ -4,12 +4,10 @@
 <h2>The courses are available for free at:</h2>
 <p>
   <a><img style="text-align:right;" src="https://algs4.cs.princeton.edu/cover.png" align="right" width="250" height="320"/></a>
-  <li> 
 
-   [Coursera Algorithms I](https://www.coursera.org/learn/algorithms-part1/home/welcome) 
+   [Coursera Algorithms I](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 
-  </li>
-</ul>
+</p>
 
 <h2>Disclaimer: Coursera's honour code</h2>
 <p>
