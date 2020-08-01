@@ -1,7 +1,7 @@
 # Solutions to Princeton's Algorithms I MOOC.
 
 <div class="description">
-<h2>The courses are available for free at:</h2>
+<h2>The course is available for free at:</h2>
 <p>
   <a><img style="text-align:right;" src="https://algs4.cs.princeton.edu/cover.png" align="right" width="250" height="320"/></a>
 
