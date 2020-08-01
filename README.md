@@ -28,7 +28,7 @@ Therefore I attempt to publish the solutions with descriptive and hopefully eluc
 Please do try to solve the assignments and interview questions on your own and only peek at my solutions as a last resource.</li>
 </p>
 
-<h3>TODO</h3>
+<h3>TODO:</h3>
 <ul>
   <li> Improve descriptive comments explaining the algorithms. </li>
   <li> Fix all pmd warnings. </li>
