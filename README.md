@@ -2,7 +2,6 @@
 
 <h2>The course is available for free at:</h2>
 <p>
-  <a><img style="text-align:right;" src="https://algs4.cs.princeton.edu/cover.png" align="right" width="250" height="320"/></a>
 
    [Coursera Algorithms I](https://www.coursera.org/learn/algorithms-part1/home/welcome)
 
@@ -13,6 +12,11 @@
 All assignments are graded 100/100.</br>
 You can consult the .java files in the src  folder, or you can import the .zip with all the assignments directly to Eclipse IDE.</br>
 </p>
+
+
+
+
+
 
 <h2>Disclaimer: Coursera's honour code</h2>
 
