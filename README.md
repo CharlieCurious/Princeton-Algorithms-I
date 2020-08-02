@@ -8,9 +8,10 @@
 </p>
 
 <h2> Description </h2>
-### All assignments are graded 100/100.
+ 
+<h3>All assignments are graded 100/100.</h3>
 
-You can consult the .java files in the src  folder, or you can import the .zip with all the assignments directly to Eclipse IDE.</br>
+You can consult the .java files in the src  folder, or you can import the .zip with all the assignments directly to Eclipse IDE.
 
 
 
