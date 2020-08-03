@@ -56,6 +56,7 @@ public class KdTree {
 
 
 	// Recursive method similar to BST implemention in the book Algorithms.
+	// Rever.
 	private Node insert(Node node, Point2D point, boolean isVertical, RectHV rect) {
 
 		if(node == null) {
@@ -127,7 +128,7 @@ public class KdTree {
 	}
 
 
-	//Fixe. Rever com atenção.
+	//Rever?
 	private void draw(Node n, boolean isVertical) {
 		if(n == null) return;
 
@@ -151,7 +152,7 @@ public class KdTree {
 	}
 
 
-	//Rever com atenção
+	//Rever com atenção.
 	// All points that are inside the rectangle (or on the boundary)
 	public Iterable<Point2D> range(RectHV rect) {
 		if(rect == null) {
@@ -198,7 +199,8 @@ public class KdTree {
 		return nearest(root, p, root.point, true);
 	}
 
-
+	
+	// Rever (Math).
 	private Point2D nearest(Node node, Point2D point, Point2D champion, boolean isVertical) {
 
 		// Base case.
